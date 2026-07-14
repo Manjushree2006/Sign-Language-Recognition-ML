@@ -120,7 +120,7 @@ pip install opencv-python mediapipe numpy
 
 ## 👩‍💻 Developed By
 
-**Manjushree M**
+**Manjushree M R**
 
 B.Tech – Data Science  
 Vidyashilp University
